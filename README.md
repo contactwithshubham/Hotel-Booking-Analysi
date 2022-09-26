@@ -30,7 +30,7 @@ company: Id of the company making a booking
 days_in_waiting_list: No. of days on waiting list.
 customer_type: Type of customer(Transient, Group, etc.)
 
-#Tools and Libraries Used:
+# Tools and Libraries Used:
 We have used Python 3 to its following packages:
 
 Pandas
